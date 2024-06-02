@@ -742,18 +742,22 @@ label[for="hamburger-nav"] {
 
 .trending-pic-diamond-ring:hover {
   background: url(./Images/diamond-ring-2.jpeg) no-repeat center center/cover;
+  transition: 400ms ;
 }
 
 .trending-pic-double-necklaces:hover {
   background: url(./Images/double-necklace-2.jpg) no-repeat center center/cover;
+  transition: 400ms ;
 }
 
 .trending-pic-rings-set:hover {
   background: url(./Images/ring-set-2.jpeg) no-repeat center center/cover;
+  transition: 500ms ;
 }
 
 .trending-pic-men-necklace:hover {
   background: url(./Images/men-necklace-2.jpeg) no-repeat center center/cover;
+  transition: 400ms ;
 }
 
 
@@ -822,7 +826,7 @@ label[for="hamburger-nav"] {
   position: absolute;
   z-index: 2;
   opacity: 0;
-  transition: opacity 0.2s ease-in-out;
+  /* transition: opaciy 0.2s ease-in-out; */
   animation-iteration-count: infinite;
   animation-direction: normal;
 }
@@ -834,21 +838,21 @@ label[for="hamburger-nav"] {
 .testimonial-track p:nth-child(1) {
   background-color: var(--section-color);
   animation-name: fade;
-  animation-duration: 30s;
+  animation-duration: 15s;
 }
 
 .testimonial-track p:nth-child(2) {
   background-color: var(--section-color);
   animation-name: fade;
-  animation-duration: 30s;
-  animation-delay: 10s;
+  animation-duration: 15s;
+  animation-delay: 5s;
 }
 
 .testimonial-track p:nth-child(3) {
   background-color: var(--section-color);
   animation-name: fade;
-  animation-duration: 30s;
-  animation-delay: 20s;
+  animation-duration: 15s;
+  animation-delay: 10s;
 }
 
 
@@ -862,27 +866,27 @@ label[for="hamburger-nav"] {
   }
 
   20% {
-    opacity: 0;
+    opacity: 0.5;
   }
 
   30% {
-    opacity: 0.5;
+    opacity: 0.9;
   }
 
   33.33% {
-    opacity: 1;
+    opacity: 0;
   }
 
   40% {
-    opacity: 1;
+    opacity: 0;
   }
 
   50% {
-    opacity: 1;
+    opacity: 0;
   }
 
   63% {
-    opacity: 0.5;
+    opacity: 0;
   }
 
   66.66% {
