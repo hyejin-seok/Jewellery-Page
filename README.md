@@ -2,9 +2,28 @@
 
 ## Description
 
-This is the first landing page I built, where I designed the entire structure and logo myself. My goal was to use only HTML and CSS, without relying on any CSS libraries. I implemented the rotating testimonials section and the hamburger navigation bar using only pure CSS, without any JavaScript.
+This is the first landing page I built, where I designed the entire structure and logo independently, aiming for a clean and efficient user interface. <br><br>
+My goal was to use only HTML and CSS, without relying on any CSS libraries. I implemented dynamic features such as a rotating testimonials section and a responsive hamburger navigation bar using pure CSS, avoiding the need for JavaScript. <br><br>
 This project was a great opportunity to practice and refine my basic HTML and CSS skills.
 
-## Technology
+<br>
 
-HTML, CSS
+![jewellery-2](https://github.com/hyejin-seok/Jewellery-Page/assets/132785671/1b32f4ef-fd76-4b6b-ad98-ad949936b0cb)
+
+
+## Features
+
+- Responsive Navbar
+- CSS-only Hamburger Menu
+- Video in Hero Section
+- Rotating Testimonials with Keyframe Animations
+- Styling with Pseudo-elements and Pseudo-classes
+- Fully Responsive Design
+
+## Technologies
+- HTML
+- CSS
+
+## Author
+🌻 [Hyejin](https://github.com/hyejin-seok)
+
