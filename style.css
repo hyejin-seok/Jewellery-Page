@@ -590,14 +590,14 @@ label[for="hamburger-nav"] {
   height: 100%;
   display: flex;
   flex-direction: row;
-  background: url(./Images/jewelry-craft-2.jpeg) no-repeat center center/cover;
+  background: url(./Images/jewelry-craft-2.webp) no-repeat center center/cover;
 }
 
 .handcraft-box-peeling {
   width: 35%;
   height: 100%;
   display: flex;
-  background: url(./Images/jewerly-craft.jpeg) no-repeat center center/cover;
+  background: url(./Images/jewerly-craft.webp) no-repeat center center/cover;
 }
 
 .handcraft-box-text {
