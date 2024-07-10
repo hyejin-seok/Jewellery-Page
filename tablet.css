@@ -15,6 +15,17 @@
     font-size: 1.3rem;
 }
 
+.logo-title {
+    font-size: 1.4rem;
+}
+
+.top-banner-text {
+    font-size: 0.8rem;
+}
+
+.header-container {
+    height: 80px;
+}
 .header-box-top {
     justify-content: space-between;
 }
