@@ -8,7 +8,7 @@ This project was a great opportunity to practice and refine my basic HTML and CS
 
 <br>
 
-![jewellery-2](https://github.com/hyejin-seok/Jewellery-Page/assets/132785671/1b32f4ef-fd76-4b6b-ad98-ad949936b0cb)
+![jewellery-2](https://github.com/hyejin-seok/Jewellery-Page/assets/132785671/2aa04b47-3801-4a46-981c-96dfd823b832)
 
 
 ## Features
