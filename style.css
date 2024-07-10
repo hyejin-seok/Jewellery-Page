@@ -836,7 +836,7 @@ label[for="hamburger-nav"] {
   position: absolute;
   z-index: 2;
   opacity: 0;
-  /* transition: opaciy 0.2s ease-in-out; */
+  transition: opaciy 0.2s ease-in-out;
   animation-iteration-count: infinite;
   animation-direction: normal;
 }
@@ -848,21 +848,21 @@ label[for="hamburger-nav"] {
 .testimonial-track p:nth-child(1) {
   background-color: var(--section-color);
   animation-name: fade;
-  animation-duration: 15s;
+  animation-duration: 30s;
 }
 
 .testimonial-track p:nth-child(2) {
   background-color: var(--section-color);
   animation-name: fade;
-  animation-duration: 15s;
-  animation-delay: 5s;
+  animation-duration: 30s;
+  animation-delay: 10s;
 }
 
 .testimonial-track p:nth-child(3) {
   background-color: var(--section-color);
   animation-name: fade;
-  animation-duration: 15s;
-  animation-delay: 10s;
+  animation-duration: 30s;
+  animation-delay: 20s;
 }
 
 
@@ -884,7 +884,7 @@ label[for="hamburger-nav"] {
   }
 
   33.33% {
-    opacity: 0;
+    opacity: 1;
   }
 
   40% {

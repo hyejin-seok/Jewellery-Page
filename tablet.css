@@ -26,6 +26,7 @@
 .header-container {
     height: 80px;
 }
+
 .header-box-top {
     justify-content: space-between;
 }
@@ -152,8 +153,6 @@
     width: 100%;
 }
 
-
-
 .creations-section {
     height: auto;
 }
@@ -179,7 +178,6 @@
     border-radius: 10px;
 }
 
-
 .handcraft-section {
     height: 1300px;
 }
@@ -189,7 +187,6 @@
     width: 100%;
     height: 100%;
 }
-
 
 .handcraft-box-text {
     display: flex;
